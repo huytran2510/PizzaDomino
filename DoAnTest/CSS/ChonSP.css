@@ -1,0 +1,58 @@
+﻿body {
+    font-family: 'Circular Std', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+.modal-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+    border: none;
+}
+.cart {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    margin-top: 50px;
+    font-weight:bold;
+}
+.thongtinCSP {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.imgSP {
+    border-radius:10px;
+    width:150px;
+    height:120px;
+}
+.soluong {
+    display:flex;
+    flex-direction:row;
+}
+.btnDecrement, .btnIncrement  {
+    width: 60px;
+    height: 20px;
+}
+.btnDecrement, .btnIncrement {
+    background-color : #dfe4ea;
+}
+.textbox {
+
+}
+.btnGioHang {
+    background-color: red;
+    width: 300px;
+    height: 50px;
+    cursor: pointer;
+    border: 1px solid red;
+    border-radius: 10px;
+    color: #ffffff;
+    transition: transform 0.2s; /* Thời gian hiệu ứng và thuộc tính áp dụng hiệu ứng */
+}
+
+    .btnGioHang:hover {
+        transform: scale(1.1); /* Phóng to 1.1 lần kích thước gốc */
+    }

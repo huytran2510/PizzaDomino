@@ -1,0 +1,33 @@
+﻿table tr td input[type=text] {
+    width: 450px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    margin: 10px;
+}
+table tr td select {
+    width: 450px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    margin: 10px;
+}
+table tr td input[type=file] {
+    margin: 10px;
+/*    border: 1px solid #ccc;
+    border-radius: 10px;*/
+}
+table tr td input[type=submit] {
+    margin: 10px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #00c100;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+}
+    table tr td input[type=submit]:hover {
+        transform: scale(1.1);
+    }

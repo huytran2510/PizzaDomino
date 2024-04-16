@@ -1,0 +1,36 @@
+﻿.cartDetail {
+    margin-top: 100px;
+}
+#imgImage {
+    transition: transform 0.5s;
+}
+.tableGioHang th, .tableGioHang td {
+    border: none; /* Loại bỏ đường viền cho th và td */
+    border-bottom: 1px solid #808080; /* Thêm đường viền ngang */
+    text-align: center;
+    padding: 20px;
+}
+
+.tableGioHang {
+    border-collapse: collapse; /* Loại bỏ khoảng cách giữa các ô */
+    border: none;
+    border-top: 1px solid #808080;
+    margin: 0 auto;
+}
+    .tableGioHang th:nth-child(4) {
+        width: 300px;
+    }
+    .tableGioHang th a, .tableGioHang td a {
+        text-decoration:none;
+        color:black;
+    }
+.muahang {
+    border: 1px solid #5cb85c;
+    background-color: #5cb85c;
+    text-decoration:none;
+    color:#ffffff;
+    border-radius: 10px;
+    width:200px;
+    height:120px;
+    margin:0 auto;
+}

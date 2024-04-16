@@ -1,0 +1,81 @@
+﻿body {
+    margin: 0;
+    height: 100vh; /* Đặt chiều cao của body là 100% của màn hình */
+    overflow: hidden;
+}
+
+.background-km {
+    margin-top: 80px;
+    width: 100%;
+    height: 700px;
+    background-image: url('https://media.istockphoto.com/id/1237868067/vi/vec-to/b%E1%BA%A7u-tr%E1%BB%9Di-sao-space-stars-background-glitter-particles.jpg?s=612x612&w=0&k=20&c=oZdg-yTOIxTGM0er16DJmrOYEec3ZIbdlb93ouQFwj8=');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+    .background-km img {
+        width: 200px;
+        height: 150px;
+        margin:0 auto;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius : 10px;
+        margin-top: 10px;
+        margin-left:10px;
+    }
+
+    .background-km > div:first-child {
+        width: 220px;
+        height: 400px;
+        background-color: rgba(255, 255, 255, 0);
+        border: 1px solid white;
+        border-radius: 10px;
+        margin-right:10px;
+    }
+
+    .background-km > div:last-child {
+        width: 660px;
+        height: 400px;
+        background-color: rgba(255, 255, 255, 0);
+        border: 1px solid white;
+        border-radius: 10px;
+    }
+
+.content {
+    background-color: #ffffff;
+    height: 380px;
+    width: 620px;
+    max-width: 630px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding-left: 10px;
+}
+
+    .content hr {
+        width: 70px;
+        display: flex;
+        float: left;
+        border: 2px solid #ccc;
+    }
+
+    .content h1 {
+        width: 400px;
+        color: #0078ae;
+    }
+.btnKm {
+    color: #e31837;
+    background-color: #f4cdd3;
+    width: 80px;
+    height: 30px;
+    border: 1px solid #e31837;
+    border-radius: 7px;
+    cursor: pointer;
+    font-weight: bold;
+}
+    .btnKm:hover {
+        background-color: #e31837;
+        color: #fff;
+        
+    }

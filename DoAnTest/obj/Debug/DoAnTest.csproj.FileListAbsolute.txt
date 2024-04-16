@@ -1,0 +1,118 @@
+D:\ASP.NET\DoAnTest\DoAnTest\bin\DoAnTest.dll.config
+D:\ASP.NET\DoAnTest\DoAnTest\bin\DoAnTest.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\DoAnTest.pdb
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\csc.exe
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\csc.exe.config
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\csc.rsp
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\csi.exe
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\csi.exe.config
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\csi.rsp
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.AppContext.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Console.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Globalization.Calendars.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.IO.Compression.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Net.Http.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Net.Sockets.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.ValueTuple.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Xml.XPath.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\vbc.exe
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\vbc.exe.config
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\vbc.rsp
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\VBCSCompiler.exe
+D:\ASP.NET\DoAnTest\DoAnTest\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.NET\DoAnTest\DoAnTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.NET\DoAnTest\DoAnTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.NET\DoAnTest\DoAnTest\obj\Debug\DoAnTest.csproj.AssemblyReference.cache
+D:\ASP.NET\DoAnTest\DoAnTest\obj\Debug\DoAnTest.csproj.CoreCompileInputs.cache
+D:\ASP.NET\DoAnTest\DoAnTest\obj\Debug\DoAnTest.csproj.CopyComplete
+D:\ASP.NET\DoAnTest\DoAnTest\obj\Debug\DoAnTest.dll
+D:\ASP.NET\DoAnTest\DoAnTest\obj\Debug\DoAnTest.pdb
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\DoAnTest.dll.config
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\DoAnTest.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\DoAnTest.pdb
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\csi.exe.config
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Console.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\obj\Debug\DoAnTest.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\obj\Debug\DoAnTest.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\obj\Debug\DoAnTest.csproj.CopyComplete
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\obj\Debug\DoAnTest.dll
+C:\Users\DELL\Downloads\DoAnTest (2)\DoAnTest\DoAnTest\obj\Debug\DoAnTest.pdb

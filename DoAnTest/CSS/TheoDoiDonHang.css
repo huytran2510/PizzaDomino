@@ -1,0 +1,72 @@
+﻿body {
+}
+.container-tddh {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:row;
+    margin-top: 150px;
+}
+.form-search input[type=text] {
+    height: 50px;
+    border: 1px solid #ccc;
+    border-top-left-radius: 10px;
+    width: 300px;
+    transition: border-color 0.3s;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.form-search input[type=image] {
+    height: 37.5px;
+    border: 1px solid #0078ae;
+    border-left: none;
+    background-color: #0078ae;
+    border-top-right-radius: 10px;
+    padding: 5px;
+
+}
+input[type="text"]:focus {
+    border: 4px solid #3498db; /* Change to the desired color */
+    outline: none; /* Remove the default focus outline */
+    border-right:none;
+}
+.icon {
+    width: 40px;
+    height: 40px;
+}
+.form-search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image-tddh img {
+    height:500px;
+}
+table {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:row;
+    border:none;
+}
+th {
+    width: 200px;
+    border: 1px solid #d3d3d3;
+    background-color: #d3d3d3;
+}
+td {
+    text-align:center;
+    border:none;
+}
+tr {
+    height:45px;
+}
+th:nth-child(4) {
+    width:300px;
+}
+tbody {
+    border:1px solid #ccc;
+}
+.butonConfirm {
+
+}

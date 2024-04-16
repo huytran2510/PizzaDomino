@@ -1,0 +1,77 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Header.master.cs" Inherits="DoAnTest.Header" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Domino's Pizza Việt Nam - Thương Hiệu Pizza Số 1 Thế Giới</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="~/Images/logodomino.png" rel="icon" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.19.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" />
+    <link href="CSS/css.css" rel="stylesheet" type="text/css" />
+    <script src="https://kit.fontawesome.com/your-fontawesome-kit-id.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha384-bGii8WpW1fOKTg4zBAbFi6F5BL1MAJX+1Yd0Zd75G4APfFZxW8M3+gBt5SgT5N4N" crossorigin="anonymous">
+</head>
+<body>
+    <form id="form1" style="display: block" runat="server">
+        <div>
+            <div class="header">
+                <asp:HyperLink CssClass="logoDomino" ID="HyperLink1" navigateurl="~/TrangChu.aspx" runat="server">
+                    <div class="logo">
+                        <img width="80" height="60"
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Domino%27s_pizza_logo.svg/768px-Domino%27s_pizza_logo.svg.png"
+                            alt="" />
+                        <span style="text-transform: uppercase;"><b>Domino's Pizza</b></span>
+                    </div>
+                </asp:HyperLink>
+                <div class="menu-container">
+                    <asp:Menu ID="Menu1" runat="server">
+                        <StaticMenuItemStyle CssClass="menu" />
+                        <DynamicMenuItemStyle CssClass="menu" />
+                        <Items>
+                            <asp:MenuItem Text="MÃ E-VOUCHER" Value="1"></asp:MenuItem>
+                            <asp:MenuItem Text="KHUYẾN MÃI" NavigateUrl="~/KhuyenMai.aspx" Value="2"></asp:MenuItem>
+                            <asp:MenuItem Text="THỰC ĐƠN" NavigateUrl="~/ThucDon.aspx" Value="3"></asp:MenuItem>
+                            <asp:MenuItem Text="THEO DÕI ĐƠN HÀNG" NavigateUrl="~/TheoDoiDonHang.aspx" Value="4"></asp:MenuItem>
+                            <asp:MenuItem Text="DANH SÁCH CỬA HÀNG" NavigateUrl="~/DanhSachCuaHang.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="BLOG"></asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                </div>
+                <div class="d-flex">
+                    <a class="text-decoration-none pl-3" role="button">
+                        <img src="https://cdn.pixabay.com/photo/2012/04/10/23/04/vietnam-26834_1280.png" alt="flag-vn" width="30"
+                            height="15" />
+                    </a>
+                    <a class="text-decoration-none ml-1" role="button">
+                        <img src="https://vuongquocanh.com/wp-content/uploads/2018/04/la-co-vuong-quoc-anh.jpg" alt="flag-en"
+                            width="30" height="15" />
+                    </a>
+                </div>
+                <ul>
+                    <li>
+                        <a href="/Login.aspx">
+                            <i class="bi bi-person-fill" style="color: white; font-size: 40px"></i>
+                        </a>
+                    </li>
+                    <li style="width: 100%;">
+                        <a class="nav-link" href="~/Customers/GioHang.aspx" style="margin-bottom: 20px">
+                            <asp:Label ID="lbSoluong" runat="server" CssClass="notify-cart">
+                                 0
+                            </asp:Label>
+                            <div class="iconr rdot-not">
+                                <i class="bi bi-basket" style="color: white; font-size: 40px"></i>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+
+</html>

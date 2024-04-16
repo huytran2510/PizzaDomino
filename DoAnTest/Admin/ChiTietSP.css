@@ -1,0 +1,167 @@
+﻿body {
+}
+.CTSP {
+    border-collapse: collapse;
+    border: none;
+    margin:0 auto;
+    width: 1000px;
+    text-align:center;
+}
+.custom-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+    /* Style for the dropdown icon (chevron-down) */
+    .custom-dropdown i {
+        position: absolute;
+        top: 50%;
+        right: 10px;
+        transform: translateY(-50%);
+        color: #333; /* Change the color as needed */
+    }
+
+    /* Style for the DropDownList */
+    .custom-dropdown select {
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        appearance: none;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        background-color: #fff; /* Change the background color as needed */
+        width: 200px; /* Set the width as needed */
+    }
+
+        /* Style for the DropDownList arrow icon (remove default arrow) */
+        .custom-dropdown select::-ms-expand {
+            display: none;
+        }
+
+        .custom-dropdown select:hover,
+        .custom-dropdown select:focus {
+            border-color: #555; /* Change the border color on hover/focus as needed */
+        }
+.CTSP th:first-child {
+    width:150px;
+}
+.imageSP {
+    height:80px;
+    width:100px;
+    border-radius:5px;
+}
+.CTSP tr:first-child {
+    background-color: #F0F0F0;
+    font-weight: bold;
+    /*border-top: 1px solid black;*/
+    /*-moz-border-radius-topleft: 10px;*/
+    /*-moz-border-radius-topleft: 10px;*/
+}
+.CTSP th,
+.CTSP td {
+    border: none;
+}
+/*.table-wrapper {
+    border-radius: 10px;
+    overflow: hidden;
+}
+.CTSP::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;*/ /* Điều chỉnh giá trị border-radius theo ý muốn */
+    /*background-color: #f0f0f0;*/ /* Màu nền của lớp phụ */
+    /*position: absolute;
+    z-index: -1;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 0 10px;
+    margin-top: -10px;*/ /* correct offset on first border spacing if desired */
+/*}*/
+
+.CTSP tr:last-child td table tr td a {
+    /* CSS styles cho thẻ tr cuối cùng trong bảng */
+    border: 1px solid #004666;
+    background-color: #004666;
+    text-decoration: none;
+    border-radius: 50%;
+    color: #ffffff;
+}
+.CTSP tr:last-child td table tr td span {
+    border: 1px solid #004666;
+    background-color: #004666;
+    border-radius: 50%;
+    color: #ffffff;
+}
+.CTSP tr:last-child td table tr, {
+    width: 40px;
+    background-color: #ffffff;
+    /*margin:0 auto;*/
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.CTSP tr:last-child td table {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.SP {
+    display: flex;
+}
+.menuSP {
+    width: 200px;
+    background-color: #004666; /* Change the background color as needed */
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Style for each menu item */
+.menu-action {
+    display: block;
+    padding: 10px;
+    color: #ffffff; 
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+
+}
+.menuSP ul li a {
+    width:100%;
+    font-weight:bold;
+}
+.menuSP ul li:hover {
+    background-color: #00628f;
+    /*width: 200px;*/
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+    /* Style for the active menu item */
+    .menu-action.active {
+        background-color: #4CAF50; 
+    }
+.menua {
+    margin-top: 90px;
+    width: 200px;
+    margin-right: 20px;
+    background-color: #004666;
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
+}
+.icon {
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+}
